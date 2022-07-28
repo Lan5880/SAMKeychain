@@ -4,7 +4,7 @@
 [![CocoaPods](https://img.shields.io/cocoapods/v/SAMKeychain.svg)](https://cocoapods.org/pods/SAMKeychain)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
-SAMKeychain is a simple wrapper for accessing accounts, getting passwords, setting passwords, and deleting passwords using the system Keychain on Mac OS X and iOS.
+SAMKeychain is a simple wrapper for accessing accounts, getting passwords, setting passwords and deleting passwords. SAMKeychain uses the system Keychain on Mac OS X and IOS.
 
 ## Adding to Your Project
 
